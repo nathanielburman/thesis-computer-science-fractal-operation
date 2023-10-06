@@ -18,3 +18,11 @@ A thesis about software related maintenance operations and removing organs of fu
 8. full stacks are represented as organs in a body
 
 9. all software code is a body of organs
+
+organs produce colors if successes and will produce a red glow effect if it produces bad code.
+
+in time the organs move with effect and will produce green glows and orange and yellow color glows when setup with different configurations.
+
+you can move organs in the visual area to create different arrangements.
+
+connections between organs can be visusally controlled.
